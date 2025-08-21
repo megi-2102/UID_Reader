@@ -136,4 +136,5 @@ Servo (Door Access Project Only)
 ♦ Files ♦
 
 • UID_Reader.ino → Main UID display sketch
+
 • RFID_DoorAccess.ino → Door access simulation sketch
