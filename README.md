@@ -16,39 +16,39 @@ This project is an Arduino-based RFID card reader that displays the UID (Unique 
 
 ♦ Pin Connections ♦
 
-• RFID Module → Arduino
+RFID Module → Arduino
 
-  • SDA (SS) → Pin 10
-
-  • RST → Pin 9
-
-  • MOSI → Pin 11
-
-  • MISO → Pin 12
-
-  • SCK → Pin 13
-
-  • VCC → 3.3V
-
-  • GND → GND
-
-• LCD → Arduino
-
-  • RS → Pin 8
-
-  • E → Pin 7
-
-  • D4 → Pin 6
+    • SDA (SS) → Pin 10
   
-  • D5 → Pin 5
+    • RST → Pin 9
   
-  • D6 → Pin 4
+    • MOSI → Pin 11
   
-  • D7 → Pin 2
+    • MISO → Pin 12
   
-  • VCC → 5V
+    • SCK → Pin 13
   
-  • GND → GND
+    • VCC → 3.3V
+  
+    • GND → GND
+
+LCD → Arduino
+
+    • RS → Pin 8
+  
+    • E → Pin 7
+  
+    • D4 → Pin 6
+    
+    • D5 → Pin 5
+    
+    • D6 → Pin 4
+    
+    • D7 → Pin 2
+    
+    • VCC → 5V
+    
+    • GND → GND
 
 ♦ Software Requirements ♦
 
