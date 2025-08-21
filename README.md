@@ -12,15 +12,15 @@ Both projects use an RFID RC522 module (or MFRC522), SPI communication, and a Li
 
 ♦ Hardware Requirements ♦
 
-    • Arduino Uno (or compatible board)
+• Arduino Uno (or compatible board)
     
-    • RFID RC522 or MFRC522 module
+• RFID RC522 or MFRC522 module
     
-    • 16x2 LCD display
+• 16x2 LCD display
     
-    • Servo motor (for door access project)
+• Servo motor (for door access project)
     
-    • Jumper wires and breadboard
+• Jumper wires and breadboard
 
 ♦ Pin Connections ♦
 
